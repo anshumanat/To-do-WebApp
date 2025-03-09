@@ -1,4 +1,3 @@
-# To-do-WebApp
 ```markdown
 # 📌 To-Do Web App
 
@@ -6,11 +5,9 @@ A simple and efficient To-Do web application to manage your daily tasks effortle
 
 ## 🚀 Features
 
-- ✅ Add, edit, and delete tasks  
-- 📅 Set due dates for tasks  
-- 🔔 Get task reminders (if notifications are enabled)  
-- 🎨 User-friendly interface  
-- 🌙 Dark mode support  
+- 📝 Add task title and description  
+- ❌ Delete a single task  
+- 🗑️ Delete all tasks at once  
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +18,7 @@ A simple and efficient To-Do web application to manage your daily tasks effortle
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/anshumanat/todo-webapp.git
+   git clone https://github.com/your-username/todo-webapp.git
    cd todo-webapp
    ```
 
