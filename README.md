@@ -7,7 +7,10 @@ A simple and efficient To-Do web application to manage your daily tasks effortle
 
 - 📝 Add task title and description  
 - ❌ Delete a single task  
-- 🗑️ Delete all tasks at once  
+- 🗑️ Delete all tasks at once
+
+![To-Do Web App](![Screenshot 2025-03-09 175041](https://github.com/user-attachments/assets/19660baf-2d29-4409-8a71-9063a1ba31a9)
+)
 
 ## 🛠️ Tech Stack
 
