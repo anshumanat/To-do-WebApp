@@ -18,7 +18,7 @@ A simple and efficient To-Do web application to manage your daily tasks effortle
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/todo-webapp.git
+   git clone https://github.com/anshumanat/todo-webapp.git
    cd todo-webapp
    ```
 
